@@ -1,6 +1,9 @@
-# Lost&Found AI
+# Boomerang
 
 Lost-and-found frontend and API with AI-assisted matching and private conversations.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6159ad20-ea18-4a19-8b11-1d2eca13ac3f" />
+
 
 ## Quick start
 
